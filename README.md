@@ -1,2 +1,2 @@
 # MaPage
-Mon premier depot sur GitHub
+Mon premier dépot sur GitHub
